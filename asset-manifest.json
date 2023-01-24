@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW_10-Context-API-todoList/static/css/main.ffe34ec7.css",
+    "main.js": "/HW_10-Context-API-todoList/static/js/main.bd48d20f.js",
+    "index.html": "/HW_10-Context-API-todoList/index.html",
+    "main.ffe34ec7.css.map": "/HW_10-Context-API-todoList/static/css/main.ffe34ec7.css.map",
+    "main.bd48d20f.js.map": "/HW_10-Context-API-todoList/static/js/main.bd48d20f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.bd48d20f.js"
+  ]
+}
